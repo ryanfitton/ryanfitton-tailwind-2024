@@ -1,0 +1,22 @@
+{
+  "name": "site-rf-tailwind",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "tailwind-init": "npx tailwindcss init",
+    "tailwind-server": "php -S localhost:8080 -t src/ ",
+    "watch:tailwind": "postcss ./src/scss/app.scss -o ./src/output.css --watch",
+    "build:tailwind": "postcss ./src/scss/app.scss -o ./src/output.css"
+  },
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.5.13",
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.39",
+    "postcss-cli": "^11.0.0",
+    "postcss-import": "^16.1.0",
+    "postcss-nested": "^6.0.1",
+    "postcss-nesting": "^13.0.0",
+    "postcss-preset-env": "^9.6.0",
+    "tailwindcss": "^3.4.10"
+  }
+}
