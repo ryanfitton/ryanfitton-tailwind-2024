@@ -11,6 +11,16 @@ Author:
 * Author: [Ryan Fitton](mailto:ryan@ryanfitton.co.uk)
 * Author URL: [https://ryanfitton.co.uk](https://ryanfitton.co.uk)
 
+Preview this on Github Pages:
+
+* https://ryanfitton.github.io/ryanfitton-tailwind-2024/archive--portfolio.html
+* https://ryanfitton.github.io/ryanfitton-tailwind-2024/archive--posts.html
+* https://ryanfitton.github.io/ryanfitton-tailwind-2024/archive--tags.html
+* https://ryanfitton.github.io/ryanfitton-tailwind-2024/index.html
+* https://ryanfitton.github.io/ryanfitton-tailwind-2024/page.html
+* https://ryanfitton.github.io/ryanfitton-tailwind-2024/single--article.html
+* https://ryanfitton.github.io/ryanfitton-tailwind-2024/single--portfolio.html)
+
 
 -------------
 
