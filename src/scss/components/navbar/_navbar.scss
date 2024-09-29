@@ -25,7 +25,7 @@
                     @apply flex flex-col mx-0;
 
                     a {
-                        @apply px-6 #{!important};
+                        @apply !px-6;
                     }
                 }
             }
