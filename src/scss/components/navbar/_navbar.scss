@@ -20,6 +20,14 @@
                 a {
                     @apply !text-white;
                 }
+
+                &--menu-mobile {
+                    @apply flex flex-col mx-0;
+
+                    a {
+                        @apply px-6 #{!important};
+                    }
+                }
             }
 
             .component-navbar__search-btn svg,
@@ -45,6 +53,10 @@
                 svg {
                     @apply size-8;
                 }
+            }
+
+            .component-navbar__menu-mobile {
+                @apply fixed left-0 top-0 z-10 h-full w-full transform bg-primary duration-300 ease-in-out dark:bg-secondary-dark dark:opacity-[0.98];
             }
                     
             .component-navbar__links a,
